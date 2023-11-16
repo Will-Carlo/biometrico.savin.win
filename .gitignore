@@ -1,0 +1,43 @@
+# Archivos de compilación y resultados de compilación
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.cache
+*.tmp
+*.log
+*.user
+*.suo
+*.vscode/
+.vs/
+
+# Carpeta bin y obj
+bin/
+obj/
+
+# Archivos de configuración específicos del entorno
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.sln.docstates
+
+# Archivos de configuración y caché de Visual Studio
+/.vs/
+/.idea/
+
+# Carpeta de paquetes NuGet
+packages/
+
+# Archivos de respaldo
+*~
+*.bak
+*.backup
+
+# Otros archivos y directorios generados automáticamente
+Thumbs.db
+ehthumbs.db
+[Tt]humbs.db
+*.DS_Store
+
